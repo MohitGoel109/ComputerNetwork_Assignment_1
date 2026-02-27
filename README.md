@@ -1,7 +1,7 @@
 # ComputerNetwork_Assignment_1
 # Assignment 1 – Basic Network Topologies (Cisco Packet Tracer)
 ## Author
-- **Name:** Vaibhav Kedia  
+- **Name:**Mohit Goel 
 - **Semester:** IV  
 ## Course Information
 - **Course Code:** ENCS304 – Computer Networks  
